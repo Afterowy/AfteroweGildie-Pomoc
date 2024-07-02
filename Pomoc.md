@@ -1,4 +1,4 @@
-## Komnedy gracza (Aby gracz miał dostęp do wszystkich poniższych komend nadaj mu uprawnienie: afterowegildie.player)
+## Komendy gracza (Aby gracz miał dostęp do wszystkich poniższych komend nadaj mu uprawnienie: afterowegildie.player)
 ```yaml
 /g sojusz (tag gildii) - Zawiera sojusz z gildią (uprawnienie: afterowegildie.alliance)
 /g zaloz (tag gildii) (nazwa gildii) - Tworzy nową gildie (uprawnienie: afterowegildie.create)
@@ -20,7 +20,7 @@
 /g przedluz - Przedłuża ważność gildii (uprawnienie: afterowegildie.validity)
 /g zastepca (Gracz) - Daje zastępce właściciela graczowi (uprawnienie: afterowegildie.vleader)
 ```
-## Komnedy administratora (Aby gracz miał dostęp do wszystkich poniższych komend nadaj mu uprawnienie: afterowegildie.admin)
+## Komendy administratora (Aby gracz miał dostęp do wszystkich poniższych komend nadaj mu uprawnienie: afterowegildie.admin)
 ```yaml
 /ag dodaj (gracz) (tag gildii) - Dodaje gracza do gildii (uprawnienie: afterowegildie.admin.add)
 /ag zycia (tag gildii) (ilość żyć) - Ustawia życia gildii (uprawnienie: afterowegildie.admin.addlives)
