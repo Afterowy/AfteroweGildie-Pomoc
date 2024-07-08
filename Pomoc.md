@@ -51,4 +51,6 @@ afterowegildie_guild_lives% - życia gildii
 %afterowegildie_guild_points% - punkty gildii
 %afterowegildie_guild_kills% - zabójstwa gildii
 %afterowegildie_guild_deaths% - śmierci gildii
+%afterowegildie_guild_position% - pozycja w rankingu gildii
+%afterowegildie_guild_online_members% - członkowie gildii online
 ```
