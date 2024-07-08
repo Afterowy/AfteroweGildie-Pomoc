@@ -18,7 +18,8 @@
 /g spvp - Włącza lub wyłącza pvp w sojuszu gildii (uprawnienie: afterowegildie.spvp)
 /g magazyn - Otwiera magazyn gildii (uprawnienie: afterowegildie.treasure)
 /g przedluz - Przedłuża ważność gildii (uprawnienie: afterowegildie.validity)
-/g zastepca (Gracz) - Daje zastępce właściciela graczowi (uprawnienie: afterowegildie.vleader)
+/g zastepca (gracz) - Daje zastępce właściciela graczowi (uprawnienie: afterowegildie.vleader)
+/g wojna (tag gildii) - Wyzywa gildie na wojne (uprawnienie: afterowegildie.war)
 ```
 ## Komendy administratora (Aby gracz miał dostęp do wszystkich poniższych komend nadaj mu uprawnienie: afterowegildie.admin)
 ```yaml
@@ -46,7 +47,7 @@
 %afterowegildie_guild_members% - ilość członków w gildii
 %afterowegildie_guild_created% - data kiedy gildia została stworzona
 %afterowegildie_guild_validity% - data do kiedy gildia jest ważna
-afterowegildie_guild_lives% - życia gildii
+%afterowegildie_guild_lives% - życia gildii
 %afterowegildie_guild_size% - rozmiar gildii
 %afterowegildie_guild_points% - punkty gildii
 %afterowegildie_guild_kills% - zabójstwa gildii
