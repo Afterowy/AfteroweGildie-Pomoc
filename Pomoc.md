@@ -33,6 +33,7 @@
 /ag ustawitemy - Ustawia przedmioty potrzebne do zalożenia gildii (uprawnienie: afterowegildie.admin.setitems)
 /ag tnt - Włącza lub wyłącza ekspozje od tnt na terenie gildii (uprawnienie: afterowegildie.admin.tnt)
 /ag tp (tag gildii) - Teleportuje do domu gildii (uprawnienie: afterowegildie.admin.tp)
+/ag unban (tag gildii) - Daje unbana gildii (uprawnienie: afterowegildie.admin.unban)
 ```
 ## Placeholdery: (Wymagany plugin [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/))
 ```yaml
@@ -54,4 +55,12 @@
 %afterowegildie_guild_deaths% - śmierci gildii
 %afterowegildie_guild_position% - pozycja w rankingu gildii
 %afterowegildie_guild_online_members% - członkowie gildii online
+```
+
+## Inne informacje
+```yaml
+!wiadomość - Czat gildii
+!!wiadomość - Czat sojuszu gildii
+
+afterowegildie.admin.move.notify - Gracz z tą permissją będzie wchodził na teren wrogiej gildii bez powiadomienia jej członków
 ```
