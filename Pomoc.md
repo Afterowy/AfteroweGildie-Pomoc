@@ -37,6 +37,7 @@
 ```
 ## Placeholdery: (Wymagany plugin [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/))
 ```yaml
+%afterowegildie_has_guild% - zwraca true jeśli gracz należy do gildii lub false jeśli gracz nie posiada gildii
 %afterowegildie_points% - ilość punktów
 %afterowegildie_kills% - ilość zabójstw
 %afterowegildie_deaths% - ilość śmierci
